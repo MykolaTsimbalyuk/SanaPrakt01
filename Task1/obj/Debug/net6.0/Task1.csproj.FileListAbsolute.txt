@@ -1,0 +1,15 @@
+D:\SanaCommerceCourse2022\SanaPrakt01\Task1\bin\Debug\net6.0\Task1.exe
+D:\SanaCommerceCourse2022\SanaPrakt01\Task1\bin\Debug\net6.0\Task1.deps.json
+D:\SanaCommerceCourse2022\SanaPrakt01\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+D:\SanaCommerceCourse2022\SanaPrakt01\Task1\bin\Debug\net6.0\Task1.dll
+D:\SanaCommerceCourse2022\SanaPrakt01\Task1\bin\Debug\net6.0\Task1.pdb
+D:\SanaCommerceCourse2022\SanaPrakt01\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+D:\SanaCommerceCourse2022\SanaPrakt01\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SanaCommerceCourse2022\SanaPrakt01\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+D:\SanaCommerceCourse2022\SanaPrakt01\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+D:\SanaCommerceCourse2022\SanaPrakt01\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+D:\SanaCommerceCourse2022\SanaPrakt01\Task1\obj\Debug\net6.0\Task1.dll
+D:\SanaCommerceCourse2022\SanaPrakt01\Task1\obj\Debug\net6.0\refint\Task1.dll
+D:\SanaCommerceCourse2022\SanaPrakt01\Task1\obj\Debug\net6.0\Task1.pdb
+D:\SanaCommerceCourse2022\SanaPrakt01\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+D:\SanaCommerceCourse2022\SanaPrakt01\Task1\obj\Debug\net6.0\ref\Task1.dll
